@@ -1,0 +1,56 @@
+[
+    {
+        "title": "github",
+        "alt": "github.com/scotdotwtf",
+        "link": "visit",
+        "href": "https://github.com/scotdotwtf"
+    },
+    {
+        "title": "bluesky",
+        "alt": "bsky.app/profile/scot.wtf",
+        "link": "chirp",
+        "href": "https://bsky.app/profile/scot.wtf"
+    },
+    {
+        "title": "bandcamp",
+        "alt": "catslovejungle.bandcamp.com",
+        "link": "listen",
+        "href": "https://catslovejungle.bandcamp.com/"
+    },
+    {
+        "title": "email",
+        "alt": "meow@scot.wtf",
+        "link": "message",
+        "href": "mailto:meow@scot.wtf"
+    },
+    {
+        "title": "remixes",
+        "alt": "youtube.com/@catslovejungle",
+        "link": "watch",
+        "href": "https://youtube.com/@catslovejungle"
+    },
+    {
+        "title": "channel",
+        "alt": "youtube.com/@scotdotwtf",
+        "link": "watch",
+        "href": "https://youtube.com/@scotdotwtf"
+    },
+    {
+        "title": "old channel",
+        "alt": "youtube.com/c/specowos",
+        "link": "watch",
+        "href": "https://youtube.com/c/specowos"
+    },
+    {
+        "title": "discord",
+        "alt": "scotdotwtf",
+        "link": "add",
+        "href": "https://discordapp.com/users/443902982094848011"
+    },
+    {
+        "title": "twitter",
+        "alt": "twitter.com/catslovejungle",
+        "link": "i freaking hate twitter",
+        "href": "https://x.com/catslovejungle/"
+    }
+]
